@@ -4,7 +4,7 @@ This app allows the user to answer a couple of questions and generates a name ba
 
 ![pic](pic.jpg)
 
-Demo:
+Demo:https://rakimdevcraig.github.io/wu-Tang/
 
 How It's Made:
 Tech used: HTML, CSS, Javascript,
